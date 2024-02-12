@@ -1,13 +1,13 @@
 # Gym
-
-## Exercise 1 
-Create an open questionnaire for getting to know more customers needs for EuroCC. Initially I will show this for the CYI as an initiative.
+## Create a simple job portal site like ergodotisi
+## Explore ruby tutorial
 Create a page you need three things: page (index.html), controller, router
 _header -> this is a partial treat like a partial
 `rails s` runs in the development environment by default -> `:development` -> add hotreload 
 
 
-
+* Gems 
+Money Rails activerecord, bcrypt
 
 
 * Ruby version
